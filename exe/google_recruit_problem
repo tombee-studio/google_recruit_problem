@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "google_recruit_problem"
+
+::GoogleRecruitProblem.main
+

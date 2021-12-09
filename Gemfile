@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in google_recruit_problem.gemspec
 gemspec
 
-gem 'primarity', '~> 0.1.0'
+gem 'primality', '~> 0.1.0'
 gem "rake", "~> 13.0"
 
 gem "test-unit", "~> 3.0"

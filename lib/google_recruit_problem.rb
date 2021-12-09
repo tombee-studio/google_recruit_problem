@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "google_recruit_problem/version"
-require "primarity"
+require "primality"
 
 module GoogleRecruitProblem
   class Error < StandardError; end
